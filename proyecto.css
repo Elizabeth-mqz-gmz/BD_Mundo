@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+  font-size: 30px;
+  font-family: sans-serif;
+  background-color: #A52A2A;
+}
+form{
+  width: 95%;
+  max-width: 1000px;
+  margin: auto;
+  text-align: left;
+}
